@@ -124,6 +124,7 @@ def move_right() :
                 game_table[i,j-1] = 0
     return game_table
 
+#test modif
 #mouvement request
 def ask_move() :
     invalid = True
